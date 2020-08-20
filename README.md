@@ -8,10 +8,10 @@ Master 1 de Mathématiques Appliquées
 
 - Projet de Méthodes Numériques : Théorie des graphes computationnels et de la backpropagation
 
-- Projet de C++ : Singular Value Decomposition : https://github.com/Schnoblock/Projet_CPP
+- Projet de C++ : singular value decomposition (SVD) : https://github.com/Schnoblock/Projet_CPP
 
 Licence 3 de Mathématiques Appliquées
 
 - Théorie des réseaux de neurones (Perceptron)
 
-- Factorisation LU rapide de matrices denses possédant une structure de déplacement
+- Factorisation LU rapide de matrices denses possédant une structure de déplacement : https://github.com/Schnoblock/Projet_Methodes_Num_L2
