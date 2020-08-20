@@ -12,6 +12,6 @@ Master 1 de Mathématiques Appliquées
 
 Licence 3 de Mathématiques Appliquées
 
-- Théorie des réseaux de neurones (Perceptron)
+- Théorie des réseaux de neurones (Perceptron), construction d'un SLP "from scratch"
 
 - Factorisation LU rapide de matrices denses possédant une structure de déplacement : https://github.com/Schnoblock/Projet_Methodes_Num_L2
