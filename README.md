@@ -12,4 +12,6 @@ Master 1 de Mathématiques Appliquées
 
 Licence 3 de Mathématiques Appliquées
 
-- Théorie des réseaux de Neurones
+- Théorie des réseaux de neurones (Perceptron)
+
+- Factorisation LU rapide de matrices denses possédant une structure de déplacement
