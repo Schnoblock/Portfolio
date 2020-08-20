@@ -8,6 +8,8 @@ Master 1 de Mathématiques Appliquées
 
 - Projet de Méthodes Numériques : Théorie des graphes computationnels et de la backpropagation
 
+- Projet de C++ : Singular Value Decomposition from scratch
+
 Licence 3 de Mathématiques Appliquées
 
 - Théorie des réseaux de Neurones
