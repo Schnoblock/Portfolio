@@ -15,3 +15,7 @@ Licence 3 de Mathématiques Appliquées
 - Théorie des réseaux de neurones (Perceptron), construction d'un SLP "from scratch"
 
 - Projet de méthodes numériques : Factorisation LU rapide de matrices denses possédant une structure de déplacement : https://github.com/Schnoblock/Projet_Methodes_Num_L2
+
+Autres :
+
+- Challenge Kagge : "Titanic : Machine Learning from disaster" : https://github.com/Schnoblock/Titanic_Machine_Learning_from_disaster (TOP 7%)
