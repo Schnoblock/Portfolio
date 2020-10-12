@@ -18,4 +18,4 @@ Licence 3 de Mathématiques Appliquées
 
 Autres :
 
-- Challenge Kagge : "Titanic : Machine Learning from disaster" : https://github.com/Schnoblock/Titanic_Machine_Learning_from_disaster (TOP 7%)
+- Challenge Kaggle : "Titanic : Machine Learning from disaster" : https://github.com/Schnoblock/Titanic_Machine_Learning_from_disaster (TOP 7%)
